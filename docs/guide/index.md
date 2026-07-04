@@ -1,4 +1,4 @@
-# Getting Started
+npm run dev# Getting Started
 
 <audio id="vite-audio">
   <source src="/vite.mp3" type="audio/mpeg">
